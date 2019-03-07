@@ -10,3 +10,5 @@ description of Wi-Fi chipset: Wireless interface - Wireless 8260 - Intel Corpora
 Data analysis tools:
 Python -- see analysis.py script
 Excel
+
+Wlan.fc.type_subtype == 0x08 beacon frames -- filter beacon frames in wireshark!
